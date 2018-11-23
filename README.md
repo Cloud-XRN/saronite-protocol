@@ -9,7 +9,7 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 - Web: [saronite.io](https://saronite.io)
 - Telegram: [t.me/Saronite](https://t.me/joinchat/HxNMMA8wrHzGpInxq0FwIQ)
-- Mail: [contact@saronite.io](mailto:contact@saronite.io)
+- Mail: [admin@saronite.io](mailto:admint@saronite.io)
 - GitHub: [https://github.com/saronite/saronite-protocol](https://github.com/saronite/saronite-protocol)
 - Discord: [https://discord.gg/EpxZbRE](https://discord.gg/EpxZbRE)
 
